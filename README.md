@@ -1,5 +1,5 @@
 # Build FriendlyWrt using GitHub Actions
-[查看中文](README.md)
+[查看中文](README_cn.md)
 ### General info 
 - User：root
 - Password：password
