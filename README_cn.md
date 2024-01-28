@@ -1,5 +1,5 @@
 # 使用 GitHub Actions 编译 FriendlyWrt
-[English](README_en.md)
+[English](README.md)
 ### 基本信息 
 - 用户名：root
 - 密码：password
